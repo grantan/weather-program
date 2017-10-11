@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/BasicWeatherProgram/v15
+/BasicWeatherProgram/bin/Debug/netcoreapp2.0
+/BasicWeatherProgram/obj
+/BasicWeatherProgramTests/bin/Debug/netcoreapp2.0
+/BasicWeatherProgramTests/obj
+/WeatherServiceTest/obj
